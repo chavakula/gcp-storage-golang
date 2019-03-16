@@ -1,0 +1,5 @@
+.idea
+pkg
+src/gcp-storage-service/vendor
+src/gcp-storage-service/Gopkg.lock
+src/gcp-storage-service/Gopkg.toml
