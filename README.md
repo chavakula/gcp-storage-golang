@@ -11,7 +11,7 @@ You can refer [here](https://cloud.google.com/storage/docs/reference/libraries#c
 ## Usage
 
 ```bash
-cd src/gcp-storage-golang
+cd src/gcp-storage-service
 go run main.go
 ```
 
